@@ -1,0 +1,8 @@
+﻿  RegEx.cpp
+C:\Users\Public\Limbaje Formale si Automate\Automate\RegEx\RegEx\RegEx.cpp(31,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Public\Limbaje Formale si Automate\Automate\RegEx\RegEx\RegEx.cpp(102,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Public\Limbaje Formale si Automate\Automate\RegEx\RegEx\RegEx.cpp(114,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Public\Limbaje Formale si Automate\Automate\RegEx\RegEx\RegEx.cpp(132,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Public\Limbaje Formale si Automate\Automate\RegEx\RegEx\RegEx.cpp(140,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Public\Limbaje Formale si Automate\Automate\RegEx\RegEx\RegEx.cpp(151,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  RegEx.vcxproj -> C:\Users\Public\Limbaje Formale si Automate\Automate\RegEx\x64\Debug\RegEx.exe

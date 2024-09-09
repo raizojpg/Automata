@@ -1,0 +1,31 @@
+5 
+A B C D E
+
+2
+a b
+
+8
+A B b
+A C a
+B D a
+A D a
+B C b
+B E b
+D C b
+C E a
+
+A
+1
+E
+
+10
+a
+aa
+aaa
+b
+bb
+bbb
+aba
+bba
+baba
+ab

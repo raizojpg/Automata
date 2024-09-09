@@ -1,0 +1,3 @@
+﻿  CYK.cpp
+C:\Users\Public\Limbaje Formale si Automate\Automate\CYK\CYK\CYK.cpp(58,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CYK.vcxproj -> C:\Users\Public\Limbaje Formale si Automate\Automate\CYK\x64\Debug\CYK.exe

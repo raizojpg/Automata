@@ -1,0 +1,22 @@
+(abc)*+(a+b*)+ (d*ed*ed*)(ppaa*)*
+
+18
+abc
+abcabc
+abca
+a
+bbbbb
+ab
+ac
+ca
+deded
+dddeddedd
+deed
+ee
+deeeed
+ed
+de
+eeppaa
+eeppaaaaa
+dededppaa
+

@@ -1,0 +1,12 @@
+NU
+1 2 3 DA
+NU
+NU
+1 1 DA
+1 1 1 1 1 1 DA
+1 2 1 DA
+1 2 1 1 DA
+1 2 1 1 1 1 DA
+NU
+NU
+1 DA

@@ -1,0 +1,29 @@
+4
+1 2 3 4
+
+6
+1 1 b
+1 4 b
+1 2 a
+2 1 c
+2 3 a
+2 4 c
+
+1
+
+2
+3 4
+
+11
+a
+aa
+aaa
+aaabc
+b
+bbbbb
+ac
+acb
+acbbb
+ab
+c
+

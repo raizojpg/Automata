@@ -1,0 +1,30 @@
+4
+1 2 3 4
+
+7
+1 1 b
+1 4 b
+4 1 b
+1 2 a
+2 1 c
+2 3 a
+2 4 c
+
+1
+
+2
+3 4
+
+12
+a
+aa
+aaa
+aaabc
+b
+bbbbb
+ac
+acb
+acbbb
+ab
+c
+****
